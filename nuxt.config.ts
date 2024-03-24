@@ -14,18 +14,6 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: "Planner",
-      meta: [
-        { name: "viewport", content: "width=device-width, initial-scale=1" }
-      ],
-      link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
     }
   },
-  build: {
-    transpile: ["vuetify"]
-  },
-  vite: {
-    define: {
-      "process.env.DEBUG": false
-    }
-  }
 });
