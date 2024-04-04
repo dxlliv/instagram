@@ -9,6 +9,9 @@ export default {
   locale: "en",
   features: {
     profileEditor: true,
+
     mediaSort: true,
+    mediaEditor: true,
+    mediaPage: true,
   }
 }
