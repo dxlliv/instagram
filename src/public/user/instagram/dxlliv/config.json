@@ -19,10 +19,33 @@
       },
       "post-4.jpg",
       "post-3.jpg",
-      "post-2.jpg",
-      "post-1.jpg"
+      {
+        "name": "post-2.jpg",
+        "caption": "\uD83C\uDFED"
+      },
+      {
+        "name": "post-1.jpg",
+        "link": "p/C5TMuaKNgEs",
+        "title": "My first built drone",
+        "slug": "my-first-built-drone",
+        "date": "4/4/2024",
+        "caption": "Il mio primo drone autocostruito! Un sacco di tempo fa, ma per un motivo o per l'altro ho sempre volato poco. Principalmente perché sono sempre stato impegnato a fare cose, insomma, volare era un hobby per me ma ero piuttosto limitato viaggiando poco e avendo scelto di stare sempre al pc. Un po' per lavoro, un po' per sperimentare su progetti vari, ma sono stanco di stare alla scrivania e ora vorrei fare anche qualcosa di più entusiasmante.\n\n#realacc #x210 #fpv #freestyle #drone #dys #racestar #giantpower #foxeer #flysky #betaflight #firstbuild"
+      }
     ],
-    "reels": [],
+    "reels": [
+      {
+        "name": "reel-2.jpg",
+        "link": "reel/C3A0gdVtbKy",
+        "date": "2/6/2024",
+        "caption": "\uD83C\uDFD4\uFE0F"
+      },
+      {
+        "name": "reel-1.jpg",
+        "link": "reel/C2jo26eNJCQ",
+        "date": "1/26/2024",
+        "caption": "Ho le spalle di uno che passa la vita in palestra\n\n#fpvpilot #fpvlife #morefpvsoon #lineofsight"
+      }
+    ],
     "stories": []
   },
   "options": {}
