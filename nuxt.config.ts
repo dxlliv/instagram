@@ -9,7 +9,6 @@ export default defineNuxtConfig({
     "~": resolve(__dirname, "."),
     "@": resolve(__dirname, "./src")
   },
-  srcDir: "./src",
   extends: ["plxnner"],
   app: {
     head: {
