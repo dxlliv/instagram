@@ -1,35 +1,92 @@
 {
   "profile": {
     "username": "dxvfpv",
-    "biography": "I write code & fly drones.\nStill on FlySky and 4S\n\n",
+    "biography": "dxlliv, 32 \uD83C\uDDEE\uD83C\uDDF9 ~ web dzn & fpv pilot\nI'm back, but still on FlySky and 4S\n\n",
     "avatar": "avatar.jpg",
-    "website": "https://dxlliv.github.io",
+    "website": "https://m.youtube.com/@dxvfpv",
     "followers_count": 50,
     "follows_count": 50
   },
   "media": {
     "posts": [
-      "post-6.jpg",
+      {
+        "name": "post-6.jpg",
+        "link": "p/CztO3zyI3Wc",
+        "date": "16/9/2023",
+        "caption": "NATO IDGZ Station\n\nThis pic closes the series of posts about the former IDGZ military base I visited two years ago, a truly suggestive place\n\n#idgz #nato #militarybase #abandonedplaces #explore #photooftheday #fpvadventure #fpvtravels"
+      },
       {
         "type": "iframe",
         "href": "https://youtube.com/embed/j9oLm2FLBNI",
-        "cover": "post-5.jpg"
+        "cover": "post-5.jpg",
+        "link": "p/CzobkjboF2H",
+        "date": "14/9/2023",
+        "caption": "I flew over an ex military base in low quality.\nBetter watch on youtube.com/@dxvfpv\n\n#fpv #fpvdrone #cinematic #gopro #geprc #gemfan #fatshark #turnigy #mountains #idgz #militarybase #drone #adventure #dossodeigalli #potatoquality"
       },
-      ["post-4x1.jpg", "post-4x2.jpg"],
-      "post-3.jpg",
       {
-        "type": "image",
-        "name": "post-2.jpg",
-        "caption": "\uD83C\uDFED",
-        "date": "3/13/2020"
+        "type": "album",
+        "list": ["post-4x1.jpg", "post-4x2.jpg"],
+        "link": "p/CzbZ34RIGMd",
+        "date": "11/9/2023",
+        "caption": "\uD83D\uDCE1\n\nI'm lazy, it took me two years to process five pics and a video that I'm going to post tomorrow\n\n#dossodeigalli #maniva #italy #photography #mountains #nato #idgz #acehigh #abandonedplaces #militarybase"
       },
-      "post-1.jpg"
+      {
+        "name": "post-3.jpg",
+        "link": "p/B979DZuo8Zj",
+        "date": "3/20/2020",
+        "caption": "\uD83D\uDE80"
+      },
+      {
+        "name": "post-2.jpg",
+        "link": "p/B9rYsGIITOh",
+        "date": "13/13/2020",
+        "caption": "\uD83C\uDFED"
+      },
+      {
+        "name": "post-1.jpg",
+        "link": "p/B9rYj_8oL8W",
+        "date": "3/13/2020",
+        "caption": "Like a bird but with 4 brushless motors\n\n#realacc #x210 #fpv #freestyle #drone #dys #racestar #giantpower #foxeer #flysky #betaflight #firstbuild"
+      }
     ],
     "reels": [
       {
         "type": "iframe",
+        "href": "https://youtube.com/embed/jCuXkiQrqa0",
+        "cover": "reel-5.jpg",
+        "link": "reel/C5TrlKBrdzd",
+        "date": "4/4/2024",
+        "caption": "I already figured out the issue, it was caused by my old AKK 5.8G Diversity Receiver and now with the Eachine PRO58 seems a lil better. The signal is still noisy but with a new antenna the situation should improve definitely\n\n#drone #flying #fpv #fatshatk #eachine #akk #receiver #geprc #freestyle #vhs #vhseffect #analog #transmission #fpvlife #fpvpilot"
+      },
+      {
+        "type": "iframe",
+        "href": "https://youtube.com/embed/emweFPZx5Ks",
+        "cover": "reel-4.jpg",
+        "link": "reel/C5SyFBctSEa",
+        "date": "4/4/2024",
+        "caption": "Houston we have a RX problem\n\n#fpvissues #issue #video #vhs #aesthetic #flying #drone #analog #fatshark #geprc #caddx #cnhl #fpv #freestyle #wehaveaproblem #houston"
+      },
+      {
+        "type": "iframe",
+        "cover": "reel-3.jpg",
+        "link": "reel/C2AiWidIV-x",
+        "date": "1/12/2024",
+        "caption": "No signal? Keep going \uD83D\uDCF6\n\n#fpv #fpvdrone #fpvflying #fpvfreestyle #geprc #gemfan #fatshark #turnigy #cnhl #rawfootage"
+      },
+      {
+        "type": "iframe",
         "href": "https://youtube.com/embed/j9oLm2FLBNI",
-        "cover": "reel-5.jpg"
+        "cover": "reel-2.jpg",
+        "link": "reel/CzobkjboF2H",
+        "date": "14/9/2023",
+        "caption": "I flew over an ex military base in low quality.\nBetter watch on youtube.com/@dxvfpv\n\n#fpv #fpvdrone #cinematic #gopro #geprc #gemfan #fatshark #turnigy #mountains #idgz #militarybase #drone #adventure #dossodeigalli #potatoquality"
+      },
+      {
+        "type": "iframe",
+        "cover": "reel-1.jpg",
+        "link": "reel/B979DZuo8Zj",
+        "date": "20/3/2020",
+        "caption": "\uD83D\uDE80"
       }
     ],
     "stories": []
